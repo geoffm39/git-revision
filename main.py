@@ -71,6 +71,7 @@
 # KEEP <NAME> AS 'origin'!! THIS IS COMMON PRACTICE (but could be something else)
 
 #### git branch -M main: RUN THIS COMMAND BEFORE EXECUTING PUSH
+# THIS JUST NEEDS TO BE DONE BEFORE THE FIRST PUSH
 
 #### git push -u <remote name> <branch name>
 # push commits from local repository over to remote repository using the -u flag (links the repositories)
